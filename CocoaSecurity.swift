@@ -10,8 +10,8 @@ import Cocoa
 
 
 public let Sign_InfoPlistEntries = "41"
-public let Sign_TeamIdentifier = "YZC2T44ZDX"
-public let Sign_Identifier = "com.wondershare.filmora-app"
+public let Sign_TeamIdentifier = "YZC2***ZDX"
+public let Sign_Identifier = "com.xxxxxx.app"
 public let Sign_Authority = "Apple Worldwide Developer Relations Certification Authority"
 
 enum MachOFormat {
